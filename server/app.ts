@@ -5,7 +5,7 @@ import cookieParser from "cookie-parser";
 import passport from "passport";
 import dotenv from "dotenv";
 
-import indexRoute from "./routes/index";
+import indexRoute from "./src/routes/index";
 //import "./middlewares/passport-middleware";
 
 dotenv.config();
